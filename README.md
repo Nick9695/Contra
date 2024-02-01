@@ -5,7 +5,7 @@ A 2d side-scroller clone of Contra (1988) game created using python and pygame l
 
 ## Run :runner:
 
-Requires python-3 and pip installed.
+Requires python-3 Plus and pip installed.
 
 ```bash
 pip install -r requirements.txt
