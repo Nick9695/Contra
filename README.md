@@ -49,7 +49,7 @@ Bird | (Powerdown). Causes the player to drop down if taken when on a platform
 * Get to the end of the Level and defeat the bot tanks
 * You will die if you lose all your health
 * Each bullet hit will decrease your Health by 1
-* Hitting an enemy unit will INSIANTLY KILL you
+* Hitting an enemy unit will INSTANTLY KILL you
 
 
 ### Notes on mechanics
@@ -67,14 +67,5 @@ from the ground.
 * Snipers shoot only when the player is infront of them
 * Soldiers who run across the screen are generated randomly every 3 seconds in front of the player
 * All global settings are present in the 'settings.py'. They can be changed by the player to make the game more interesting and/or challenging
-
-## Assets
-
-Asset | Credits
----|---
-Background | Zephiel87
-BGM | Jake Kaufman on [ocremix](https://ocremix.org/)
-Sprite sounds | Effects from [bfxr](https://www.bfxr.net/)
-Sprites | Google images
 
 # Thank you for playing
